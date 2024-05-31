@@ -1,0 +1,24 @@
+D:\Users\lovro krsul\Desktop\algebra\s5\pppk\PPPK_Vjezbe0102\Vjezbe0102\SqlViewer\bin\Debug\Zadatak0102.exe.config
+D:\Users\lovro krsul\Desktop\algebra\s5\pppk\PPPK_Vjezbe0102\Vjezbe0102\SqlViewer\bin\Debug\Zadatak0102.exe
+D:\Users\lovro krsul\Desktop\algebra\s5\pppk\PPPK_Vjezbe0102\Vjezbe0102\SqlViewer\bin\Debug\Zadatak0102.pdb
+D:\Users\lovro krsul\Desktop\algebra\s5\pppk\PPPK_Vjezbe0102\Vjezbe0102\SqlViewer\obj\Debug\SqlViewer.csproj.AssemblyReference.cache
+D:\Users\lovro krsul\Desktop\algebra\s5\pppk\PPPK_Vjezbe0102\Vjezbe0102\SqlViewer\obj\Debug\SqlViewer.csproj.SuggestedBindingRedirects.cache
+D:\Users\lovro krsul\Desktop\algebra\s5\pppk\PPPK_Vjezbe0102\Vjezbe0102\SqlViewer\obj\Debug\Zadatak.LoginForm.resources
+D:\Users\lovro krsul\Desktop\algebra\s5\pppk\PPPK_Vjezbe0102\Vjezbe0102\SqlViewer\obj\Debug\Zadatak.MainForm.resources
+D:\Users\lovro krsul\Desktop\algebra\s5\pppk\PPPK_Vjezbe0102\Vjezbe0102\SqlViewer\obj\Debug\Zadatak0102.Properties.Resources.resources
+D:\Users\lovro krsul\Desktop\algebra\s5\pppk\PPPK_Vjezbe0102\Vjezbe0102\SqlViewer\obj\Debug\SqlViewer.csproj.GenerateResource.cache
+D:\Users\lovro krsul\Desktop\algebra\s5\pppk\PPPK_Vjezbe0102\Vjezbe0102\SqlViewer\obj\Debug\SqlViewer.csproj.CoreCompileInputs.cache
+D:\Users\lovro krsul\Desktop\algebra\s5\pppk\PPPK_Vjezbe0102\Vjezbe0102\SqlViewer\obj\Debug\Zadatak0102.exe
+D:\Users\lovro krsul\Desktop\algebra\s5\pppk\PPPK_Vjezbe0102\Vjezbe0102\SqlViewer\obj\Debug\Zadatak0102.pdb
+C:\Users\programer10\Desktop\3pk_dz1\SqlViewer\bin\Debug\Zadatak0102.exe.config
+C:\Users\programer10\Desktop\3pk_dz1\SqlViewer\bin\Debug\Zadatak0102.exe
+C:\Users\programer10\Desktop\3pk_dz1\SqlViewer\bin\Debug\Zadatak0102.pdb
+C:\Users\programer10\Desktop\3pk_dz1\SqlViewer\obj\Debug\SqlViewer.csproj.AssemblyReference.cache
+C:\Users\programer10\Desktop\3pk_dz1\SqlViewer\obj\Debug\SqlViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\programer10\Desktop\3pk_dz1\SqlViewer\obj\Debug\Zadatak.LoginForm.resources
+C:\Users\programer10\Desktop\3pk_dz1\SqlViewer\obj\Debug\Zadatak.MainForm.resources
+C:\Users\programer10\Desktop\3pk_dz1\SqlViewer\obj\Debug\Zadatak0102.Properties.Resources.resources
+C:\Users\programer10\Desktop\3pk_dz1\SqlViewer\obj\Debug\SqlViewer.csproj.GenerateResource.cache
+C:\Users\programer10\Desktop\3pk_dz1\SqlViewer\obj\Debug\SqlViewer.csproj.CoreCompileInputs.cache
+C:\Users\programer10\Desktop\3pk_dz1\SqlViewer\obj\Debug\Zadatak0102.exe
+C:\Users\programer10\Desktop\3pk_dz1\SqlViewer\obj\Debug\Zadatak0102.pdb

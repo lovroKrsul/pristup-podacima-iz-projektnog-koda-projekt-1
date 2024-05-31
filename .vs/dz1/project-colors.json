@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bedf80d2-3e20-4d60-b365-74f1e7e251ce": {
+      "ProjectGuid": "bedf80d2-3e20-4d60-b365-74f1e7e251ce",
+      "DisplayName": "SqlViewer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
